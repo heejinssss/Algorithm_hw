@@ -1,2 +1,2 @@
-#1st sol!
 print("Hello World!")
+print("Hell")
