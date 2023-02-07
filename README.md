@@ -1,1 +1,1 @@
-Algorithm studying
+# Algorithm Party
