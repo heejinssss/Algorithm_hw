@@ -7,7 +7,7 @@ for test_case in range(1, T + 1):
     stack = [] * N
     result = ''
 
-    # 변환할 식을 순회
+    # 변환할 식을 반복 순회
     for token in infix:
         # (1) 토큰이 피연산자인 경우
         if token.isdecimal():
